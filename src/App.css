@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2? family= PT+Serif:ital,wght@0,400;1,400;1,700 & family= Press+Start+2P & display=swap');;
+
+body{
+  font-family: 'Press Start 2P', cursive;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  
+  background-color: #fff3a6;
+  background-image: url(http://www.transparenttextures.com/patterns/climpek.png);;
+  
+}
+.App {
+  text-align: center;
+  
+}
+
+.card {  
+  width:45%;
+  flex-wrap: wrap;
+  margin-bottom: 2%;
+  padding: 4%;
+  text-align: center;
+  border-radius: 12px;
+   background-color: rgba(240, 248, 255, 0.241); 
+}  
+
+
+  .custom-btn{
+    background: whitesmoke;
+    background-image: whitesmoke;
+    border-radius: 4px;
+    color: black;
+    font-size:15px;
+    font-weight:bold;
+    margin: 1%;
+    
+  }
+
+ 
+  

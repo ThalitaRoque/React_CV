@@ -1,0 +1,48 @@
+.more{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+  }
+  .habilities{
+   width: 40%;
+   flex-wrap: wrap;
+   padding: 4%;
+   text-align: center;
+   border-radius: 12px;
+   background-color: rgba(240, 248, 255, 0.241);
+   margin-left: 26%;
+   margin-right: 24.5%;
+   text-decoration: uppercase;
+   font-weight: bold;
+  }
+
+  
+  .language{
+    width: 40%;
+   flex-wrap: wrap;
+   padding: 4%;
+   text-align: center;
+   border-radius: 12px;
+   background-color: rgba(240, 248, 255, 0.241);
+   margin-left: 26%;
+   margin-right: 24.5%;
+  }
+  h6{
+    text-transform: uppercase;
+    font-weight: bold;
+    color:black;
+    font-size: 16px;
+}
+
+
+  .idiomas{
+    text-align: center;
+    margin:4px;
+    padding-right: 20px;
+    padding-left:20px;
+    background-color: rgba(240, 248, 255, 0.241);
+    border-radius: 15px;
+    width: 42%;
+    
+   }
